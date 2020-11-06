@@ -2,6 +2,15 @@
 <h1> ✍️'s Internship Journey </h1>
 </div>
 
+## How to use this template
+1. Create your own journey repo by clicking the green "Use this Template" button on top of the page.
+2. Add your personalised content when you see ✍️.
+3. For each day, go to the `/Journey/[day number].md` file to record your achievements and reflections. 
+4. Update the title of the day's entry in the [My Journey section](#my-journey).
+5. Feel free to customise sections as you need!
+
+**Acknowledgement: Inspirations from [100DaysOfCloud template](https://github.com/100DaysOfCloud/100DaysOfCloud).**
+
 ## About Me
 ✍️ Who I am
 
