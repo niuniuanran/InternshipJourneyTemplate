@@ -109,3 +109,9 @@
 - [ ] 🚧️ 48 > [](Journey/048/Readme.md)
 - [ ] 🚧️ 49 > [](Journey/049/Readme.md)
 - [ ] 🚧️ 50 > [](Journey/050/Readme.md)
+
+## My Milestones
+- [ ] 🚧️ [Milestone1: Company Introduction](Milestones/Milestone1.md)
+- [ ] 🚧️ [Milestone2: Project Description](Milestones/Milestone2.md)
+- [ ] 🚧️ [Milestone3: Professional Attributes and Project Development Process](Milestones/Milestone3.md)
+- [ ] 🚧️ [Milestone4: Achievements & Project Results](Milestones/Milestone4.md)
